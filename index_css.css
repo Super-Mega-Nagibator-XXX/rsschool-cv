@@ -1,0 +1,52 @@
+h1
+{
+    text-align: center;
+}
+
+h3
+{
+    text-align: center;
+}
+
+.code
+{
+    border: 2px solid gray;
+    width: 600px;
+    height: 230px;
+    background: rgb(199, 199, 199);
+    margin: 0 0 0 350px;
+}
+
+.section
+{
+    text-align: center;
+}
+
+.list
+{
+    margin: 0 0 0 550px;
+}
+
+
+
+/*.rightColumn
+{
+    position: absolute;
+    top: 60px;
+    right: 10px;
+    background: chocolate;
+    border: 2px solid black;
+    width: 200px;
+    height: 1000px;
+}
+
+.js
+{
+    position: absolute;
+    top: 65px;
+}
+.pict
+{
+    height: 600px;
+}*/
+
