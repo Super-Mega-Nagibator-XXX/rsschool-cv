@@ -21,7 +21,7 @@ Beginner at:
 
 -----------------------------
 ### Code example
-**Birthday cake kata from CodeWars**
+**_Birthday cake_ kata from CodeWars**
 ```
 function cake(x, str)
 {
@@ -39,7 +39,7 @@ function cake(x, str)
 
 ----------------------------------
 ### Experience
-Study C/C++ in *university*. Have a little experience in developing mobile apps on **Swift**.
+Study C/C++ in *university*. Have a little experience in developing *mobile apps* on **Swift**.
 
 --------------------------------------
 ### Education
